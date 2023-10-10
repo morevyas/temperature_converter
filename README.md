@@ -1,1 +1,2 @@
-# temperature_converter
+# temperature-converter
+Temperature converter using html, css and javascript.
